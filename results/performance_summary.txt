@@ -1,0 +1,5 @@
+Performance Summary
+===================
+Sharpe: strategy 0.72, buy and hold 0.81
+Max Drawdown: strategy -23.72%, buy and hold -77.37%
+Total Return: strategy 132.25%, buy and hold 525.30%
