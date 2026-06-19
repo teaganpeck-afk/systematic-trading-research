@@ -1,5 +1,7 @@
 # BTC VWAP Backtesting Framework
 
+[Project write up PDF](systematic-trading-research-vwap.pdf)
+
 Custom Python research framework for testing systematic BTCUSDT futures strategies using Binance USD-M Futures market data.
 
 This project focuses on a VWAP mean-reversion strategy with trend, volume, and holding-period constraints. It includes data loading, indicator generation, event-driven signal logic, backtesting, grid search, walk-forward validation, and result reporting.
